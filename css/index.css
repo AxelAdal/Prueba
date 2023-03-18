@@ -1,0 +1,32 @@
+.h{
+   text-align: center;
+   font-size: x-large;
+    color: gray;
+    margin: 2rem;
+
+    text-decoration-color: red;
+    text-decoration-line:underline;
+}
+a{
+    text-decoration: none;
+}
+.a1{
+    color:green;
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+.a2{
+    color:green;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+.li1{
+    margin-left: 2.5rem;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}
+footer{
+    margin: 1rem;
+    height: 2rem;
+}
